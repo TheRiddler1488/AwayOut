@@ -1,0 +1,626 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin"
+  ],
+  "subMetas": {
+    "5e001": {
+      "importer": "gltf-mesh",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@5e001",
+      "displayName": "",
+      "id": "5e001",
+      "name": "body.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 346
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c1eb": {
+      "importer": "gltf-mesh",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@4c1eb",
+      "displayName": "",
+      "id": "4c1eb",
+      "name": "leg-back-left.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d28ff": {
+      "importer": "gltf-mesh",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@d28ff",
+      "displayName": "",
+      "id": "d28ff",
+      "name": "leg-back-right.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0fe2": {
+      "importer": "gltf-mesh",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@e0fe2",
+      "displayName": "",
+      "id": "e0fe2",
+      "name": "leg-front-left.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80ef2": {
+      "importer": "gltf-mesh",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@80ef2",
+      "displayName": "",
+      "id": "80ef2",
+      "name": "leg-front-right.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1b8f": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@c1b8f",
+      "displayName": "",
+      "id": "c1b8f",
+      "name": "dance.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "5fc59": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@5fc59",
+      "displayName": "",
+      "id": "5fc59",
+      "name": "eat.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2e785": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@2e785",
+      "displayName": "",
+      "id": "2e785",
+      "name": "gesture-negative.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.25
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "b2384": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@b2384",
+      "displayName": "",
+      "id": "b2384",
+      "name": "gesture-positive.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.25
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "cf5ee": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@cf5ee",
+      "displayName": "",
+      "id": "cf5ee",
+      "name": "run.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.25
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "18b80": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@18b80",
+      "displayName": "",
+      "id": "18b80",
+      "name": "static.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.0833333358168602
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "7f3dc": {
+      "importer": "gltf-animation",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@7f3dc",
+      "displayName": "",
+      "id": "7f3dc",
+      "name": "walk.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2b33f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@2b33f",
+      "displayName": "",
+      "id": "2b33f",
+      "name": "colormap.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture",
+        "compressSettings": {
+          "useCompressTexture": true,
+          "presetId": "aerUkVZHJJkL9T0QfaPH07"
+        }
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5811aa10-e9f3-4881-8262-a2c5c2409eba@2b33f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9991c": {
+      "importer": "gltf-material",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@9991c",
+      "displayName": "",
+      "id": "9991c",
+      "name": "colormap.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0624b": {
+      "importer": "gltf-scene",
+      "uuid": "5811aa10-e9f3-4881-8262-a2c5c2409eba@0624b",
+      "displayName": "",
+      "id": "0624b",
+      "name": "Bear.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "colormap",
+        "uri": "5811aa10-e9f3-4881-8262-a2c5c2409eba@2b33f"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "dance",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "dance",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "c1b8f"
+          }
+        ]
+      },
+      {
+        "name": "eat",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "eat",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "5fc59"
+          }
+        ]
+      },
+      {
+        "name": "gesture-negative",
+        "duration": 0.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "gesture-negative",
+            "from": 0,
+            "to": 0.25,
+            "wrapMode": 2,
+            "previousId": "2e785"
+          }
+        ]
+      },
+      {
+        "name": "gesture-positive",
+        "duration": 0.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "gesture-positive",
+            "from": 0,
+            "to": 0.25,
+            "wrapMode": 2,
+            "previousId": "b2384"
+          }
+        ]
+      },
+      {
+        "name": "idle",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "1f586"
+          }
+        ]
+      },
+      {
+        "name": "run",
+        "duration": 0.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "run",
+            "from": 0,
+            "to": 0.25,
+            "wrapMode": 2,
+            "previousId": "cf5ee"
+          }
+        ]
+      },
+      {
+        "name": "static",
+        "duration": 0.0833333358168602,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "static",
+            "from": 0,
+            "to": 0.0833333358168602,
+            "wrapMode": 2,
+            "previousId": "18b80"
+          }
+        ]
+      },
+      {
+        "name": "walk",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "walk",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "7f3dc"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@5e001",
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@4c1eb",
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@d28ff",
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@e0fe2",
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@80ef2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@e39f7"
+      ],
+      "materials": [
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@9991c"
+      ],
+      "scenes": [
+        "5811aa10-e9f3-4881-8262-a2c5c2409eba@0624b"
+      ]
+    },
+    "materials": {
+      "5811aa10-e9f3-4881-8262-a2c5c2409eba@9991c": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "c8f66d17-351a-48da-a12c-0212d28575c4",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_INSTANCING": true,
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {
+              "cullMode": 0
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "5811aa10-e9f3-4881-8262-a2c5c2409eba@e39f7",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}
